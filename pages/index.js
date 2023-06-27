@@ -15,7 +15,7 @@ function Home() {
         responde no whatsapp a possivel reação, por favor!
       </span>
     </div>
-  )
+  );
 }
 
-export default Home
+export default Home;
